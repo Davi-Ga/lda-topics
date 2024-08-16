@@ -1,0 +1,11 @@
+numpy
+pandas
+pathlib
+pyLDAvis
+matplotlib
+gensim
+spacy
+tqdm
+wordcloud
+scipy<1.14
+nltk
